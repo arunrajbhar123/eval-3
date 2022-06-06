@@ -1,0 +1,9 @@
+.main{
+  display: flex;
+  justify-content: space-between;
+  padding-left:55px;
+  padding-right: 55px;
+}
+.main_right button{
+  margin-left:25px;
+}
